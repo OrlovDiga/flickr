@@ -3,7 +3,7 @@ package people
 import (
 	"testing"
 
-	"gopkg.in/masci/flickr.v3"
+	"github.com/OrlovDiga/flickr"
 )
 
 var (

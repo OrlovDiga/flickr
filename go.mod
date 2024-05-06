@@ -1,4 +1,4 @@
-module gopkg.in/masci/flickr.v3
+module github.com/OrlovDiga/flickr
 
 go 1.20
 

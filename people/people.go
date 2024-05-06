@@ -3,7 +3,7 @@ package people
 import (
 	"strconv"
 
-	"gopkg.in/masci/flickr.v3"
+	"github.com/OrlovDiga/flickr"
 )
 
 type Photo struct {

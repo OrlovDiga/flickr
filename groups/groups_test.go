@@ -3,9 +3,9 @@ package groups
 import (
 	"testing"
 
+	"github.com/OrlovDiga/flickr"
+	flickErr "github.com/OrlovDiga/flickr/error"
 	"github.com/stretchr/testify/assert"
-	"gopkg.in/masci/flickr.v3"
-	flickErr "gopkg.in/masci/flickr.v3/error"
 )
 
 func TestGetGroups(t *testing.T) {
